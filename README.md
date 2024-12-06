@@ -2,8 +2,6 @@
 
 Make your GitHub history back to 1992.
 
-![image](https://user-images.githubusercontent.com/*.png)
-
 ## Travel Back
 
 [Create a new repo](https://github.com/new) named `1992` on GitHub.
